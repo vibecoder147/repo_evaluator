@@ -1,3 +1,5 @@
 streamlit
 google-generativeai
-PyGithub
+requests
+pandas
+altair
