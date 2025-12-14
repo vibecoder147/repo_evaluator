@@ -1,0 +1,15 @@
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+secrets.toml
+
+# Ignore local keys file
+keys.txt
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (optional but good practice)
+venv/
+env/
+.env
